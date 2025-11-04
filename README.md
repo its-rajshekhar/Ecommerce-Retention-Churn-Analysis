@@ -11,7 +11,7 @@ UrbanKart (fictional) experienced a notable drop in retention—repeat purchase 
 **Primary outcomes:**  
 - Root-cause map of churn drivers (product, experience, incentives)  
 - A three-pillar retention program: *Engage | Reward | Retain*  
-- ROI model showing projected retention lift +16pp and 3× ROI on reactivation campaigns
+- ROI model showing projected retention lift +16pp and 3× ROI on reactivation campaign
 
 ---
 

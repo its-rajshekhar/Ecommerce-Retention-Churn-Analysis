@@ -1,0 +1,4 @@
+date,cohort,users,repeat_orders,retention_d30,avg_cart_value,channel
+2025-01-01,2025-01,620,200,0.42,1280,organic
+2025-02-01,2025-02,700,217,0.31,1310,paid
+2025-03-01,2025-03,810,243,0.30,1340,paid

@@ -1,6 +1,6 @@
 # E-Commerce Customer Retention & Churn Strategy (UrbanKart)
 **Author:** Raj Shekhar Mishra | Lucknow  
-**Date:** November 2025
+**Date:** October 2025
 
 ---
 
